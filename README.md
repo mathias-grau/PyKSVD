@@ -30,7 +30,7 @@ pip install pyksvd
 For signals : (example in `example.py`)
 
 ```python
-from ksvd.ksvd import KSVD
+from pyksvd.pyksvd import KSVD
 import numpy as np
 
 # Define parameters

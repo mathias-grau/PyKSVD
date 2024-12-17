@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyksvd
-Version: 0.1.0
+Version: 0.1.1
 Summary: A Python implementation of the K-SVD algorithm
 Home-page: https://github.com/mathias-grau/PyKSVD
 Author: Mathias Grau and Antoine Martinez
@@ -12,6 +12,9 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 
 # PyKSVD
+
+[![PyPI version](https://badge.fury.io/py/pyksvd.svg)](https://badge.fury.io/py/pyksvd)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 PyKSVD is a Python implementation of the K-SVD algorithm based on paper *K-SVD: An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation* (2006) by Michal Aharon, Michael Elad, and Alfred Bruckstein. 
 
@@ -27,10 +30,10 @@ Notebook are present in folder `notebook`
 ## Examples
 
 - Signal Processing : Fit a dictionay based on input signals and then transform new signals with high level sparsity. 
-![Dictionary Learning](images/paper/ksvd_paper_reconstruction.png)
+![Dictionary Learning](https://github.com/mathias-grau/PyKSVD/blob/main/images/paper/ksvd_paper_reconstruction.png)
 
 - Image processing : Denoise or complete a corrupted image with missing pixels with patches. 
-![Image Reconstruction with 70% missing pixels](images/example_corrupted_image_70.png)
+![Image Reconstruction with 70% missing pixels](https://github.com/mathias-grau/PyKSVD/blob/main/images/example_corrupted_image_70.png)
 
 ## Installation
 
@@ -43,7 +46,7 @@ pip install pyksvd
 For signals : (example in `example.py`)
 
 ```python
-from ksvd.ksvd import KSVD
+from pyksvd.pyksvd import KSVD
 import numpy as np
 
 # Define parameters

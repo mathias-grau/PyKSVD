@@ -1,5 +1,8 @@
 # PyKSVD
 
+[![PyPI version](https://badge.fury.io/py/pyksvd.svg)](https://badge.fury.io/py/pyksvd)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 PyKSVD is a Python implementation of the K-SVD algorithm based on paper *K-SVD: An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation* (2006) by Michal Aharon, Michael Elad, and Alfred Bruckstein. 
 
 

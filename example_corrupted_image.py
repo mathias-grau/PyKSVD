@@ -8,7 +8,7 @@ patch_size = 8
 image_size = 256
 K = 441  # number of atoms in dict
 T0 = 10  # number of non zero coefficients
-REMOVE_PIXELS_RATIO = 0.7
+REMOVE_PIXELS_RATIO = 0.9
 
 # Directories
 train_dir = 'data/train/impressionism/'

@@ -14,10 +14,10 @@ Notebook are present in folder `notebook`
 ## Examples
 
 - Signal Processing : Fit a dictionay based on input signals and then transform new signals with high level sparsity. 
-![Dictionary Learning](images/paper/ksvd_paper_reconstruction.png)
+![Dictionary Learning](https://github.com/mathias-grau/PyKSVD/blob/main/images/paper/ksvd_paper_reconstruction.png)
 
 - Image processing : Denoise or complete a corrupted image with missing pixels with patches. 
-![Image Reconstruction with 70% missing pixels](images/example_corrupted_image_70.png)
+![Image Reconstruction with 70% missing pixels](https://github.com/mathias-grau/PyKSVD/blob/main/images/example_corrupted_image_70.png)
 
 ## Installation
 

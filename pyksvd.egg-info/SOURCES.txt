@@ -1,0 +1,10 @@
+README.md
+setup.py
+pyksvd/__init__.py
+pyksvd/functions.py
+pyksvd/matching_pursuit.py
+pyksvd/pyksvd.py
+pyksvd.egg-info/PKG-INFO
+pyksvd.egg-info/SOURCES.txt
+pyksvd.egg-info/dependency_links.txt
+pyksvd.egg-info/top_level.txt

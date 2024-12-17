@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyksvd
-Version: 0.1.1
+Version: 0.1.2
 Summary: A Python implementation of the K-SVD algorithm
 Home-page: https://github.com/mathias-grau/PyKSVD
 Author: Mathias Grau and Antoine Martinez
